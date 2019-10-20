@@ -88,6 +88,7 @@
 - [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers) - Latest and greatest talks on modern web development with pro-tips, insights, and techniques to help you level up your web development skill.
 - [LearnCode.academy](https://www.youtube.com/user/learncodeacademy/) - Tutorials on: HTML, CSS, jQuery, JavaScript, React JS / Redux, Node JS
 - [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/) - Tutorials on: HTML, CSS, SASS, WordPress, Magento,Drupal, React, Meteor
+- [Pluralsight](https://www.youtube.com/user/pluralsight) - Tutorials on: HTML, CSS, JavaScript, Bootstrap
 - [The Coding Train](https://www.youtube.com/user/shiffman/videos) - Tutorials on JavaScript, Node, Machine Learning, Neural Networks, Algorithms
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/) - Tutorials on: HTML, CSS, jQuery, JavaScript, Git and GitHub, Bootstrap, MangoDB, PSD to WordPress, PSD to HTML, and many more.
 - [TheDigiCraft](https://www.youtube.com/user/TheDigiCraft) - Tutorials on: HTML, CSS, jQuery, PHP, Ajax, Bootstrap, MySQL.
